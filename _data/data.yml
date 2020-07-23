@@ -7,140 +7,113 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Shihan Tang
+    tagline: Graduate Student at UC Irvine | Software Development
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: tshawn2014@gmail.com
+    phone: 
+    website: tshawn2014.github.io/online-cv/ #do not add http://
+    linkedin: shihan14
+    github: tshawn2014
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
-        level: Native
+      - idiom: 
+        level: 
 
-      - idiom: French
-        level: Professional
+      - idiom: 
+        level: 
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: 
+        level: 
 
     interests:
-      - item: Climbing
+      - item: Hiking
         link:
 
-      - item: Snowboarding
+      - item: Overwatch
         link:
 
-      - item: Cooking
+      - item: 
         link:
 
 career-profile:
-    title: Career Profile
+    title: Summary
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a graduate student from University of California, Irvine, majoring in
+      computer science, and will graduate in December 2020. Currently, I am
+      actively seeking a full-time software engineer position. I have a curious
+      while mature mind, thus I am willing to learn and also take responsibilities.
+      Besides, with my positive attitudes towards life, I enjoy impacting people
+      around me and facilitating my team to improve.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Master of Computer Science
+      university: University of California, Irvine
+      time: Dec. 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
+        Database Management System, Operating System, Parallel Computing,
+        Computer Networks, Data Structure, Algorithms, Deep Learning
+          - GPA: 3.83
+    - degree: 
       university: Bristol University
-      time: 2007 - 2011
+      time: Jul. 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Software Engineering, Testing and Analysis, Project Management,
+        Computer Architecture
+          - GPA: 3.83
+          - Rank: 3/34
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Engineering Intern
+      time: Feb. 2019 - Jun. 2019
+      company: Amisbook, Chongqing
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Pre-processed images(data augmentation) as training data for a handwriting-to-text neural network using Python, increased accuracy by 5-10%
+          - Tested an info management system by use cases with black box tests, assisted debugging
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: 
+
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: Relational Database Management System - CS222P
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "\n
+        Designed data records format in a 4096B page, table formats, and index-based B+ trees\n 
+        Implemented record scanning, range queries, and basic relational DB operations, including projection, selection, and equal join, using C++\n
+        Collaborated with a teammate, using the method of pair programming"
 
-      - title: Tempo
+      - title: Campsite Choosing Web Application
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "\n
+        Built front end UI with HTML/CSSand Bootstrap 4\n
+        Completed back end with NodeJS and Express as basic and MongoDB as database, with features including creating, commenting, and editing information"
 
-      - title: Atom
+      - title: Brief Compiler System
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "\n
+        Completed a compiler using Python with lexical, syntactic (parsing), and semantic analysis\n
+        Build GUI to use execute the compiler and display outcomes in each step with PyQt"
 
-      - title: Delta
+      - title: Android Acoustic Controlling Game (Hackathon, HackPKU)
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "\n
+        Led a team of 5 to create a Android game within 48 hours in a team of 5\n
+        Organized meetings, provided the game idea and divided labors into parts\n
+        Tested UI and acoustic processing parts to ensure the program’s well functioning"
+
+      - title: Android Application{:} Bookkeeping
+        link: "#"
+        tagline: "\n
+        Created a complete Android/Java bookkeeping application\n
+        Fulﬁlled features including managing income and expenditure records, displaying statistic info by category, and adding texts, pictures and/or location as notes\n
+        Used Baidu Map API to get locations and SQLite as database"
 
 publications:
     title: Publications
@@ -168,23 +141,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: C++
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Python
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: JavaScript
+        level: 80%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 80%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Linux
+        level: 75%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
