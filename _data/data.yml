@@ -108,26 +108,26 @@ projects:
         Used Baidu Map API to get locations and SQLite as database"
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: 
-        link: "#"
-        authors: 
-        conference: 
+    # title: Publications
+    # intro: |
+    #   You can list your publications in this section. Lorem ipsum dolor sit
+    #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    #   bibendum fringilla a eu lectus.
+    # papers:
+    #   - title: 
+    #     link: "#"
+    #     authors: 
+    #     conference: 
 
-      - title: 
-        link: "#"
-        authors: 
-        conference: 
+    #   - title: 
+    #     link: "#"
+    #     authors: 
+    #     conference: 
 
-      - title: 
-        link: "#"
-        authors: 
-        conference: 
+    #   - title: 
+    #     link: "#"
+    #     authors: 
+    #     conference: 
 
 skills:
     title: Skills &amp; Proficiency
