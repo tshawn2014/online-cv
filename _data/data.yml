@@ -76,38 +76,38 @@ projects:
     assignments:
       - title: Relational Database Management System - CS222P
         link: "#"
-        tagline: "\n
-        Designed data records format in a 4096B page, table formats, and index-based B+ trees\n 
-        Implemented record scanning, range queries, and basic relational DB operations, including projection, selection, and equal join, using C++\n
-        Collaborated with a teammate, using the method of pair programming"
+        tagline: |
+          - Designed data records format in a 4096B page, table formats, and index-based B+ trees
+          - Implemented record scanning, range queries, and basic relational DB operations, including projection, selection, and equal join, using C++
+          - Collaborated with a teammate, using the method of pair programming
 
       - title: Campsite Choosing Web Application
         link: "#"
-        tagline: "\n
-        Built front end UI with HTML/CSSand Bootstrap 4\n
-        Completed back end with NodeJS and Express as basic and MongoDB as database, with features including creating, commenting, and editing information"
+        tagline: |
+          - Built front end UI with HTML/CSSand Bootstrap 4
+          - Completed back end with NodeJS and Express as basic and MongoDB as database, with features including creating, commenting, and editing information"
 
       - title: Brief Compiler System
         link: "#"
-        tagline: "\n
-        Completed a compiler using Python with lexical, syntactic (parsing), and semantic analysis\n
-        Build GUI to use execute the compiler and display outcomes in each step with PyQt"
+        tagline: |
+          - Completed a compiler using Python with lexical, syntactic (parsing), and semantic analysis
+          - Build GUI to use execute the compiler and display outcomes in each step with PyQt
 
       - title: Android Acoustic Controlling Game (Hackathon, HackPKU)
         link: "#"
-        tagline: "\n
-        Led a team of 5 to create a Android game within 48 hours in a team of 5\n
-        Organized meetings, provided the game idea and divided labors into parts\n
-        Tested UI and acoustic processing parts to ensure the program’s well functioning"
+        tagline: |
+          - Led a team of 5 to create a Android game within 48 hours in a team of 5
+          - Organized meetings, provided the game idea and divided labors into parts
+          - Tested UI and acoustic processing parts to ensure the program’s well functioning
 
       - title: Android Application{:} Bookkeeping
         link: "#"
-        tagline: "\n
-        Created a complete Android/Java bookkeeping application\n
-        Fulﬁlled features including managing income and expenditure records, displaying statistic info by category, and adding texts, pictures and/or location as notes\n
-        Used Baidu Map API to get locations and SQLite as database"
+        tagline: |
+          - Created a complete Android/Java bookkeeping application
+          - Fulﬁlled features including managing income and expenditure records, displaying statistic info by category, and adding texts, pictures and/or location as notes
+          - Used Baidu Map API to get locations and SQLite as database
 
-publications:
+# publications:
     # title: Publications
     # intro: |
     #   You can list your publications in this section. Lorem ipsum dolor sit
